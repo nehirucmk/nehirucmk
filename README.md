@@ -20,6 +20,9 @@ focused on data science, machine learning, deep learning, and artificial intelli
 ### tech stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-161b22?style=flat-square&logo=c%2B%2B&logoColor=ebc6cd" />
+  <img src="https://img.shields.io/badge/C-161b22?style=flat-square&logo=c&logoColor=ebc6cd" />
+  <img src="https://img.shields.io/badge/Ubuntu-161b22?style=flat-square&logo=ubuntu&logoColor=ebc6cd" />
   <img src="https://img.shields.io/badge/python-161b22?style=flat-square&logo=python&logoColor=ebc6cd" />
   <img src="https://img.shields.io/badge/pytorch-161b22?style=flat-square&logo=pytorch&logoColor=ebc6cd" />
   <img src="https://img.shields.io/badge/tensorflow-161b22?style=flat-square&logo=tensorflow&logoColor=ebc6cd" />
