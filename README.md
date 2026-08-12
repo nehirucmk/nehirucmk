@@ -35,8 +35,6 @@ focused on data science, machine learning, deep learning, and artificial intelli
 
 <div align="center">
 
-<img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=nehirucmk&theme=transparent&count_private=true&border_radius=30&locale=en&border=ebc6cd&stroke=ebc6cd&ring=ebc6cd&fire=ebc6cd&currStreakLabel=f8e1eb&currStreak=ebc6cd&currStreakNum=ebc6cd&sideNums=ffffff&sideLabels=ebc6cd&dates=888888" alt="streak" />
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nehirucmk&bg_color=00000000&color=ebc6cd&line=ebc6cd&point=ffffff&area=true&hide_border=true&custom_title=github%20activity%20stream" alt="Activity Graph" />
 
 </div>
