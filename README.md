@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=ebc6cd&center=true&vCenter=true&width=435&lines=data+science+%26+analytics;machine+learning+%26+deep+learning;building+ai+models" alt="typing svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=d48ba8&center=true&vCenter=true&width=435&lines=data+science+%26+analytics;machine+learning+%26+deep+learning;building+ai+models" alt="typing svg" />
 </p>
 
 ### about
 
-computer engineering student at Gazi University, currently in my 3rd year.
+computer engineering student at gazi university, currently in my 3rd year.
 
 focused on data science, machine learning, deep learning, and artificial intelligence.
 
@@ -21,14 +21,14 @@ focused on data science, machine learning, deep learning, and artificial intelli
 ### tech stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-161b22?style=flat-square&logo=c%2B%2B&logoColor=ebc6cd" />
-  <img src="https://img.shields.io/badge/C-161b22?style=flat-square&logo=c&logoColor=ebc6cd" />
-  <img src="https://img.shields.io/badge/Ubuntu-161b22?style=flat-square&logo=ubuntu&logoColor=ebc6cd" />
+  <img src="https://img.shields.io/badge/c%2B%2B-161b22?style=flat-square&logo=c%2B%2B&logoColor=d48ba8" />
+  <img src="https://img.shields.io/badge/c-161b22?style=flat-square&logo=c&logoColor=d48ba8" />
+  <img src="https://img.shields.io/badge/ubuntu-161b22?style=flat-square&logo=ubuntu&logoColor=d48ba8" />
   <img src="https://img.shields.io/badge/python-161b22?style=flat-square&logo=python&logoColor=ebc6cd" />
   <img src="https://img.shields.io/badge/pytorch-161b22?style=flat-square&logo=pytorch&logoColor=ebc6cd" />
   <img src="https://img.shields.io/badge/tensorflow-161b22?style=flat-square&logo=tensorflow&logoColor=ebc6cd" />
-  <img src="https://img.shields.io/badge/pandas-161b22?style=flat-square&logo=pandas&logoColor=ebc6cd" />
-  <img src="https://img.shields.io/badge/numpy-161b22?style=flat-square&logo=numpy&logoColor=ebc6cd" />
+  <img src="https://img.shields.io/badge/pandas-161b22?style=flat-square&logo=pandas&logoColor=d48ba8" />
+  <img src="https://img.shields.io/badge/numpy-161b22?style=flat-square&logo=numpy&logoColor=d48ba8" />
   <img src="https://img.shields.io/badge/scikitlearn-161b22?style=flat-square&logo=scikitlearn&logoColor=ebc6cd" />
 </p>
 
@@ -37,9 +37,10 @@ focused on data science, machine learning, deep learning, and artificial intelli
 <div align="center">
 
 <p align="center">
-  <img width="420" src="https://streak-stats.demolab.com/?user=nehirucmk&theme=transparent&count_private=true&border_radius=30&locale=en&border=ebc6cd&stroke=ebc6cd&ring=ebc6cd&fire=ebc6cd&currStreakLabel=f8e1eb&currStreak=ebc6cd&currStreakNum=ebc6cd&sideNums=ffffff&sideLabels=ebc6cd&dates=888888" alt="streak matrix" />
+  <img width="420" src="https://streak-stats.demolab.com/?user=nehirucmk&theme=transparent&count_private=true&border_radius=30&locale=en&border=d48ba8&stroke=d48ba8&ring=ebc6cd&fire=d48ba8&currStreakLabel=f8e1eb&currStreak=ebc6cd&currStreakNum=ebc6cd&sideNums=ffffff&sideLabels=d48ba8&dates=888888" alt="streak matrix" />
 </p>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nehirucmk&bg_color=00000000&color=ebc6cd&line=ebc6cd&point=ffffff&area=true&hide_border=true&custom_title=github%20activity%20stream" alt="Activity Graph" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nehirucmk&bg_color=00000000&color=d48ba8&line=ebc6cd&point=ffffff&area=true&area_color=d48ba8&hide_border=true&custom_title=github%20activity%20stream" alt="Activity Graph" />
 
 </div>
 
@@ -47,6 +48,8 @@ focused on data science, machine learning, deep learning, and artificial intelli
 
 ## connect
 
-<a href="https://www.linkedin.com/in/nehir-uzunçakmak-7a480a294">
-  <img src="https://img.shields.io/badge/LinkedIn-%23ebc6cd.svg?style=flat&logo=linkedin&logoColor=white" width="50" alt="linkedin" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/nehir-uzun%C3%A7akmak-7a480a294">
+    <img src="https://img.shields.io/badge/linkedin-161b22?style=flat-square&logo=linkedin&logoColor=d48ba8" alt="linkedin" />
+  </a>
+</p>
