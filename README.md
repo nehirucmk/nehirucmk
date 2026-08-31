@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=cba6f7&center=true&vCenter=true&width=450&lines=data+science+%26+analytics;machine+learning+%26+deep+learning;building+neural+architectures" alt="typing svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=b6d0ff&center=true&vCenter=true&width=450&lines=data+science+%26+analytics;machine+learning+%26+deep+learning;building+neural+architectures" alt="typing svg" />
 </p>
 
 ### about
@@ -21,30 +21,30 @@ focused on data science, machine learning, deep learning, and artificial intelli
 ### tech stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/c%2B%2B-161b22?style=flat-square&logo=c%2B%2B&logoColor=cba6f7" />
-  <img src="https://img.shields.io/badge/c-161b22?style=flat-square&logo=c&logoColor=cba6f7" />
-  <img src="https://img.shields.io/badge/ubuntu-161b22?style=flat-square&logo=ubuntu&logoColor=9d8df1" />
-  <img src="https://img.shields.io/badge/python-161b22?style=flat-square&logo=python&logoColor=cba6f7" />
-  <img src="https://img.shields.io/badge/pytorch-161b22?style=flat-square&logo=pytorch&logoColor=9d8df1" />
-  <img src="https://img.shields.io/badge/tensorflow-161b22?style=flat-square&logo=tensorflow&logoColor=cba6f7" />
-  <img src="https://img.shields.io/badge/pandas-161b22?style=flat-square&logo=pandas&logoColor=9d8df1" />
-  <img src="https://img.shields.io/badge/numpy-161b22?style=flat-square&logo=numpy&logoColor=9d8df1" />
-  <img src="https://img.shields.io/badge/scikitlearn-161b22?style=flat-square&logo=scikitlearn&logoColor=cba6f7" />
+  <img src="https://img.shields.io/badge/c%2B%2B-161b22?style=flat-square&logo=c%2B%2B&logoColor=b6d0ff" />
+  <img src="https://img.shields.io/badge/c-161b22?style=flat-square&logo=c&logoColor=b6d0ff" />
+  <img src="https://img.shields.io/badge/ubuntu-161b22?style=flat-square&logo=ubuntu&logoColor=89b4fa" />
+  <img src="https://img.shields.io/badge/python-161b22?style=flat-square&logo=python&logoColor=b6d0ff" />
+  <img src="https://img.shields.io/badge/pytorch-161b22?style=flat-square&logo=pytorch&logoColor=89b4fa" />
+  <img src="https://img.shields.io/badge/tensorflow-161b22?style=flat-square&logo=tensorflow&logoColor=b6d0ff" />
+  <img src="https://img.shields.io/badge/pandas-161b22?style=flat-square&logo=pandas&logoColor=89b4fa" />
+  <img src="https://img.shields.io/badge/numpy-161b22?style=flat-square&logo=numpy&logoColor=89b4fa" />
+  <img src="https://img.shields.io/badge/scikitlearn-161b22?style=flat-square&logo=scikitlearn&logoColor=b6d0ff" />
 </p>
 
 ### stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/nehirucmk?style=flat-square&logo=github&label=followers&color=cba6f7&labelColor=161b22&logoColor=cba6f7" alt="followers" />
-  <img src="https://img.shields.io/github/stars/nehirucmk?style=flat-square&logo=apachespark&label=stars&color=9d8df1&labelColor=161b22&logoColor=9d8df1" alt="stars" />
-  <img src="https://img.shields.io/github/directory-file-count/nehirucmk/nehirucmk?style=flat-square&label=repos&color=cba6f7&labelColor=161b22" alt="repos" />
+  <img src="https://img.shields.io/github/followers/nehirucmk?style=flat-square&logo=github&label=followers&color=b6d0ff&labelColor=161b22&logoColor=b6d0ff" alt="followers" />
+  <img src="https://img.shields.io/github/stars/nehirucmk?style=flat-square&logo=apachespark&label=stars&color=89b4fa&labelColor=161b22&logoColor=89b4fa" alt="stars" />
+  <img src="https://img.shields.io/github/directory-file-count/nehirucmk/nehirucmk?style=flat-square&label=repos&color=b6d0ff&labelColor=161b22" alt="repos" />
 </p>
 <p align="center">
-  <img width="450" src="https://streak-stats.demolab.com?user=nehirucmk&theme=dark&background=0d1117&border=0d1117&stroke=9d4edd&ring=7dcfff&fire=7dcfff&currStreakLabel=cba6f7&currStreak=cba6f7&currStreakNum=7dcfff&sideNums=7dcfff&sideLabels=cba6f7&dates=cba6f7" alt="streak stats" />
+  <img width="450" src="https://streak-stats.demolab.com?user=nehirucmk&theme=dark&background=0d1117&border=0d1117&stroke=58a6ff&ring=74c7ec&fire=74c7ec&currStreakLabel=b6d0ff&currStreak=b6d0ff&currStreakNum=74c7ec&sideNums=74c7ec&sideLabels=b6d0ff&dates=b6d0ff" alt="streak stats" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/9d4edd/nehirucmk" alt="contribution heatmap" />
+  <img width="100%" src="https://ghchart.rshah.org/58a6ff/nehirucmk" alt="contribution heatmap" />
 </p>
 <hr>
 
@@ -52,6 +52,6 @@ focused on data science, machine learning, deep learning, and artificial intelli
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nehir-uzun%C3%A7akmak-7a480a294">
-    <img src="https://img.shields.io/badge/linkedin-161b22?style=flat-square&logo=linkedin&logoColor=cba6f7" alt="linkedin" />
+    <img src="https://img.shields.io/badge/linkedin-161b22?style=flat-square&logo=linkedin&logoColor=b6d0ff" alt="linkedin" />
   </a>
 </p>
