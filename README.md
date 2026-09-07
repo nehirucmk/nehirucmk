@@ -13,7 +13,7 @@ focused on data science, machine learning, deep learning, and artificial intelli
 ### stats
 
 <p align="center">
-  <img width="450" src="https://streak-stats.demolab.com?user=nehirucmk&theme=dark&background=0d1117&border=0d1117&stroke=58a6ff&ring=74c7ec&fire=74c7ec&currStreakLabel=b6d0ff&currStreak=b6d0ff&currStreakNum=74c7ec&sideNums=74c7ec&sideLabels=b6d0ff&dates=b6d0ff" alt="streak stats" />
+  <img width="450" src="https://streak-stats.demolab.com?user=nehirucmk&theme=dark&background=000000&border=000000&stroke=888888&ring=888888&fire=cccccc&currStreakLabel=888888&currStreak=cccccc&currStreakNum=ffffff&sideNums=ffffff&sideLabels=888888&dates=666666" alt="streak stats" />
 </p>
 
 
