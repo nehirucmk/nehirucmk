@@ -2,7 +2,7 @@
 
 ### about
 
-computer engineering student at gazi university, currently in my 3rd year.
+computer engineering student at gazi university, currently in my 4th year.
 
 focused on data science, machine learning, deep learning, and artificial intelligence.
 
