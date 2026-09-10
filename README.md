@@ -8,7 +8,7 @@ focused on data science, machine learning, deep learning, and artificial intelli
 
 - working on data analysis, predictive modeling, and neural networks.
 - exploring scalable machine learning workflows and real-world ai applications.
-- currently learning linux system administration and terminal workflow via ubuntu vm
+- currently learning web application security, focusing on the mechanics of OWASP vulnerabilities
 
 ### stats
 
